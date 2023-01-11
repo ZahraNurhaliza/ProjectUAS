@@ -215,9 +215,9 @@ while True:
 
 
 ### Link Dokumentasi Youtube
-[Link Youtube]()
+[Link Youtube](https://youtu.be/LC19VaH3LiY)
 
 ### Link Dokumentasi PDF
-[Link Google Drive](https://drive.google.com/file/d/1HTl2TGAEv0LcYWpN9ysaEVaT5SuPXQP-/view?usp=drivesdk)
+[Link Google Drive](https://drive.google.com/file/d/1HqNNJuwaQAADWXIvXLfHXUoodiDTktTC/view?usp=drivesdk)
 
 ## Selesai
